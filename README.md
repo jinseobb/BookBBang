@@ -66,11 +66,13 @@
 
 <br/>
 
-> 팀원의 작업 진척도 출력 화면
-<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/38dc98e7-f765-4a7b-b6e7-2e864ad0a3ba"/>
+> 주문 페이지
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/3a919ba6-d091-4524-9e44-c762d969e4de"/>
   
 📋 구현 기능  
-* 작업 관리 탭에서 일반 작업 세부 탭을 클릭하면 팀원이 진행하는 작업 목록과 진척도를 도넛 차트로 출력되는 페이지
+* ajax를 활용하여 원하는 배송지를 선택하면 실시간으로 배송지 정보가 변합니다.
+* ajax를 활용하여 실시간으로 쿠폰을 적용시켜 할인된 금액이 출력됩니다.
+* 카카오결제 api를 활용하여 카카오페이 결제가 가능합니다.
 
 <br/>
 
