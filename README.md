@@ -76,16 +76,16 @@
 
 <br/>
 
-> 프로젝트 산출물 목록 출력 화면
-<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/1af67c86-5e2e-42a9-b8c1-d1ef378ce563"/>
+> 커뮤니티 '북유럽'의 메인 페이지
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/dd19de8d-cb4d-418a-9ed1-9e3d10b05e17"/>
   
 📋 구현 기능  
-* 해당 프로젝트에서 발생한 모든 산출물 목록이 출력되고, 상세정보 확인 및 다운로드가 가능한 페이지
+* 소비자들이 작성한 서평 중 이달의 서평 어워드에 선정된 서평 목록이 출력됩니다.
 
 <br/>
 
 > 개인 및 팀원 일정 출력 화면
-<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/f6d3be07-5647-420e-8f74-4146eb01a809"/>
+<img width="550px" src=""/>
   
 📋 구현 기능  
 * 모든 팀원의 일정을 확인 할 수 있는 페이지
