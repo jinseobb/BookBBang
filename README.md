@@ -112,7 +112,7 @@
 <br/>
 
 > 마이페이지 > 배송 주소록 페이지
-<img width="550px" src=""/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/076c6401-4197-423a-b8f2-ed8e12c76757"/>
   
 📋 구현 기능  
 * 주소 api를 활용하여 주소 등록을 더욱 편리하게 구현하였습니다.
