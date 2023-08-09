@@ -1,23 +1,23 @@
 > # Spring Project - BookBBang
-스프링을 활용하여 제작한 도서 통합 서비스 프로그램
+스프링을 활용하여 제작한 도서 통합 서비스 프로그램  
 <br/>
 
 > ## 🖥 프로젝트 소개
 도서 구매 사이트가 아닌 커뮤니티, 중고거래 등 다양한 기능을 활용 할 수 있는 도서 통합 서비스 플랫폼.  
 
-개개인의 취향에 맞는 도서 추천, 서평을 통해 해당 도서에 대한 세부 정보 습득, 중고거래를 통해 합리적인 도서 구매 등 도서에 관한 여러 서비스를 제공한다.
+개개인의 취향에 맞는 도서 추천, 서평을 통해 해당 도서에 대한 세부 정보 습득, 중고거래를 통해 합리적인 도서 구매 등 도서에 관한 여러 서비스를 제공한다.  
 <br/>
 
 
 > ## 📅 개발기간
-* 23.06.19일 ~ 23.07.12일
+* 23.06.19일 ~ 23.07.12일  
 <br/>
   
 > ## ⚙ 개발 환경
 * `Java 8`
 * `JDK 1.8.0`
 - **IDE** : STS3
-- **Database** : Oracle DB(11xe), MyBatis
+- **Database** : Oracle DB(11xe), MyBatis  
 
 ### ✔️Frond-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
