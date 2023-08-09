@@ -34,10 +34,10 @@
 
 ### 📌 주요 기능
 > 메인 화면
-<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/0c71a1d0-3106-4b06-8be9-3708af7868af"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/70d214e9-6bc9-43eb-a42a-0519c4eeeb43"/>
   
 📋 구현 기능  
-* 메인 화면으로 본인의 프로젝트 세부 현황에 대한 정보가 출력되는 페이지
+* 메인 화면으로 신작, 베스트 셀러 등 분야별 대표 도서 목록을 출력한다.
 
 <br/>
 
