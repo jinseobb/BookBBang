@@ -28,7 +28,7 @@
 </br>
 
 > ## :keyboard:DB 설계
-<p align="center"><img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/54098fe7-ae84-428c-aa36-276f7569bff2" width="550" height="400"/></p>   
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/54098fe7-ae84-428c-aa36-276f7569bff2" width="550" height="400"/> 
 
 </br></br>
 
