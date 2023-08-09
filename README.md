@@ -49,11 +49,11 @@
 
 <br/>
 
-> wbs 차트 출력 화면
-<img width="550px" src="https://github.com/jinseobb/PMS-Project/assets/131458472/4177e073-4004-4788-a776-b87951b881f8"/>
+> 도서 상세정보, 구매 페이지
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/9038c98c-d4ad-43a5-a2be-420f242c5ece"/>
   
 📋 구현 기능  
-* 해당 프로젝트의 진척도를 한 눈에 볼 수 있게끔 차트로 출력되는 페이지
+* 선택한 도서의 상세 정보를 확인 할 수 있고, 장바구니에 넣기 또는 바로 주문이 가능합니다.
 
 <br/>
 
