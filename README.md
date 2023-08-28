@@ -94,7 +94,7 @@
 <br/>
 
 > 매장별 위치 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/26d0b1fe-3505-4911-a8a3-f066d8c8358c"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/b2aad5f2-a71e-4167-9fe5-5bd217a0e939"/>
   
 📋 구현 기능  
 * 카카오맵 api를 활용하여 오프라인 매장의 위치가 지도에 출력합다.
