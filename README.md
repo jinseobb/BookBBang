@@ -34,7 +34,7 @@
 
 ### 📌 주요 기능
 > 메인 화면
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/70d214e9-6bc9-43eb-a42a-0519c4eeeb43"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/3eeee7a0-d2d1-4910-851b-5f738992c60e"/>
   
 📋 구현 기능  
 * 메인 화면으로 신작, 베스트 셀러 등 분야별 대표 도서 목록이 출력됩니다.
@@ -42,7 +42,7 @@
 <br/>
 
 > 도서 목록 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/9b49544e-39a7-4b95-abe9-a46022979dd0"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/a43fbc70-9853-4201-86e2-41dfd75971a2"/>
   
 📋 구현 기능  
 * 메인 페이지에서 도서 탭을 클릭시 도서 페이지로 이동, 메인 페이지에서는 책을 대분류, 소분류로 나눠 목록을 출력, 낮은 가격순, 높은 가격순, 출판날짜 등으로 정렬하여 조회가 가능합니다.
