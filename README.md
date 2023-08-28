@@ -121,7 +121,7 @@
 <br/>  
 
 > 중고거래 > 중고 거래 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/076c6401-4197-423a-b8f2-ed8e12c76757"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/6b1d90bd-c498-4bad-9f08-62bd701183ca"/>
   
 📋 구현 기능  
 * 회원 간 중고 거래를 할 수 있는 페이지입니다.
