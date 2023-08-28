@@ -50,7 +50,7 @@
 <br/>
 
 > 도서 상세정보, 구매 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/9038c98c-d4ad-43a5-a2be-420f242c5ece"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/2bbdcf8f-5882-4c4d-bd2d-f1d59bd5dba0"/>
   
 📋 구현 기능  
 * 선택한 도서의 상세 정보를 확인 할 수 있고, 장바구니에 넣기 또는 바로 주문이 가능합니다.
@@ -58,7 +58,7 @@
 <br/>
 
 > 장바구니 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/a45acee6-f70d-489f-94a5-a6bcec1c0800"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/73ea6a09-ef06-4367-b9cb-16ae821cc423"/>
   
 📋 구현 기능  
 * 구매 페이지에서 장바구니에 담기 버튼을 누르면 장바구니에 해당 도서 상품이 담깁니다.
@@ -67,7 +67,7 @@
 <br/>
 
 > 주문 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/3a919ba6-d091-4524-9e44-c762d969e4de"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/0f7c4617-6b49-420f-9b9f-fe5b019e97f6"/>
   
 📋 구현 기능  
 * ajax를 활용하여 원하는 배송지를 선택하면 실시간으로 배송지 정보가 변합니다.
@@ -85,7 +85,7 @@
 <br/>
 
 > '북유럽'의 서평 목록 출력 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/de8a8ba5-5009-49ee-b924-3395ce3e0170"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/1df3070d-a79e-4dac-81b7-a4de13371b17"/>
   
 📋 구현 기능  
 * 서평 목록 페이지에선 도서 표지만 출력되는것이 아닌 책의 기본 정보들모두 출력되어 서평에 대한 정보가 더욱 상세하게 출력됩니다.
