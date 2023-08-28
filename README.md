@@ -130,7 +130,7 @@
 <br/>  
 
 > 중고거래 > 중고 상품 상세 페이지 
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/076c6401-4197-423a-b8f2-ed8e12c76757"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/50463146-c2c4-4bf6-aebc-1720e370b2e3"/>
   
 📋 구현 기능  
 * 구매를 희망하는 상품 클릭 시 해당 상품의 상세 정보가 출력되는 페이지입니다.
