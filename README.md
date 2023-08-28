@@ -77,7 +77,7 @@
 <br/>
 
 > 커뮤니티 '북유럽'의 메인 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/dd19de8d-cb4d-418a-9ed1-9e3d10b05e17"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/fe40c73a-6389-482e-9f40-bc2810d042d9"/>
   
 📋 구현 기능  
 * 소비자들이 작성한 서평 중 이달의 서평 어워드에 선정된 서평 목록이 한눈에 보기 쉽도록 도서 표지가 출력됩니다.
