@@ -10,7 +10,7 @@
 
 
 > ## 📅 개발기간
-* 23.06.19일 ~ 23.07.12일  
+* 23.06.19 ~ 23.07.12  
 <br/>
   
 > ## ⚙ 개발 환경
@@ -34,7 +34,7 @@
 
 ### 📌 주요 기능
 > 메인 화면
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/70d214e9-6bc9-43eb-a42a-0519c4eeeb43"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/3eeee7a0-d2d1-4910-851b-5f738992c60e"/>
   
 📋 구현 기능  
 * 메인 화면으로 신작, 베스트 셀러 등 분야별 대표 도서 목록이 출력됩니다.
@@ -42,7 +42,7 @@
 <br/>
 
 > 도서 목록 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/9b49544e-39a7-4b95-abe9-a46022979dd0"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/a43fbc70-9853-4201-86e2-41dfd75971a2"/>
   
 📋 구현 기능  
 * 메인 페이지에서 도서 탭을 클릭시 도서 페이지로 이동, 메인 페이지에서는 책을 대분류, 소분류로 나눠 목록을 출력, 낮은 가격순, 높은 가격순, 출판날짜 등으로 정렬하여 조회가 가능합니다.
@@ -50,7 +50,7 @@
 <br/>
 
 > 도서 상세정보, 구매 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/9038c98c-d4ad-43a5-a2be-420f242c5ece"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/2bbdcf8f-5882-4c4d-bd2d-f1d59bd5dba0"/>
   
 📋 구현 기능  
 * 선택한 도서의 상세 정보를 확인 할 수 있고, 장바구니에 넣기 또는 바로 주문이 가능합니다.
@@ -58,7 +58,7 @@
 <br/>
 
 > 장바구니 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/a45acee6-f70d-489f-94a5-a6bcec1c0800"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/73ea6a09-ef06-4367-b9cb-16ae821cc423"/>
   
 📋 구현 기능  
 * 구매 페이지에서 장바구니에 담기 버튼을 누르면 장바구니에 해당 도서 상품이 담깁니다.
@@ -67,7 +67,7 @@
 <br/>
 
 > 주문 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/3a919ba6-d091-4524-9e44-c762d969e4de"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/0f7c4617-6b49-420f-9b9f-fe5b019e97f6"/>
   
 📋 구현 기능  
 * ajax를 활용하여 원하는 배송지를 선택하면 실시간으로 배송지 정보가 변합니다.
@@ -77,7 +77,7 @@
 <br/>
 
 > 커뮤니티 '북유럽'의 메인 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/dd19de8d-cb4d-418a-9ed1-9e3d10b05e17"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/fe40c73a-6389-482e-9f40-bc2810d042d9"/>
   
 📋 구현 기능  
 * 소비자들이 작성한 서평 중 이달의 서평 어워드에 선정된 서평 목록이 한눈에 보기 쉽도록 도서 표지가 출력됩니다.
@@ -85,19 +85,19 @@
 <br/>
 
 > '북유럽'의 서평 목록 출력 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/de8a8ba5-5009-49ee-b924-3395ce3e0170"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/1df3070d-a79e-4dac-81b7-a4de13371b17"/>
   
 📋 구현 기능  
-* 서평 목록 페이지에선 도서 표지만 출력되는것이 아닌 책의 기본 정보들모두 출력되어 서평에 대한 정보가 더욱 상세하게 출력됩니다.
+* 서평 목록 페이지에선 도서 표지만 출력되는것이 아닌 책의 기본 정보들 모두 출력되어 서평에 대한 정보가 더욱 상세하게 출력됩니다.
 
 
 <br/>
 
 > 매장별 위치 페이지
-<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/26d0b1fe-3505-4911-a8a3-f066d8c8358c"/>
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/b2aad5f2-a71e-4167-9fe5-5bd217a0e939"/>
   
 📋 구현 기능  
-* 카카오맵 api를 활용하여 오프라인 매장의 위치가 지도에 출력합다.
+* 카카오맵 api를 활용하여 오프라인 매장의 위치가 지도에 출력됩니다.
 
 
 <br/>
@@ -117,5 +117,24 @@
 📋 구현 기능  
 * 주소 api를 활용하여 주소 등록을 더욱 편리하게 구현하였습니다.
 * ajax를 활용하여 실시간 배송지 CRUD가 가능합니다.
+
+<br/>  
+
+> 중고거래 > 중고 거래 페이지
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/6b1d90bd-c498-4bad-9f08-62bd701183ca"/>
+  
+📋 구현 기능  
+* 회원 간 중고 거래를 할 수 있는 페이지입니다.
+* 판매를 원하는 회원은 판매하고 싶은 중고 상품을 등록 할 수 있습니다.
+
+<br/>  
+
+> 중고거래 > 중고 상품 상세 페이지 
+<img width="550px" src="https://github.com/jinseobb/BookBBang/assets/131458472/50463146-c2c4-4bf6-aebc-1720e370b2e3"/>
+  
+📋 구현 기능  
+* 구매를 희망하는 상품 클릭 시 해당 상품의 상세 정보가 출력되는 페이지입니다.
+* 웹 소켓을 활용해 채팅 기능을 이용 할 수 있습니다.
+* 판매자는 구매를 원하는 회원이 보낸 채팅 갯수를 확인 할 수 있습니다.
 
 <br/>
